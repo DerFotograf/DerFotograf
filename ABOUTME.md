@@ -1,0 +1,5 @@
+- I'm Fotograf.
+- I love coding and hacking.
+- Actually learning PY and JS.
+- Pentester and white hat hacker.
+- Have a nice day.
